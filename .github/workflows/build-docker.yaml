@@ -1,0 +1,21 @@
+name: Build django docker
+
+# Controls when the workflow will run
+on:
+  # Allows you to call this workflow within another workflow
+  workflow_call:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  # Triggered based on the git event type
+  pull_request:
+    branches: [main, development]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Build Docker image
+        run: docker build -t linguana-api .

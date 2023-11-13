@@ -1,0 +1,26 @@
+{% extends 'email_base.html' %} {% block content %}
+
+<div class="main-title">VERIFY YOUR ACCOUNT</div>
+<h3 class="header-title">Almost there!</h3>
+<p class="description">
+  This is a security measure so we know that you are really t the owner of this
+  email address. Just click on the button below to verify your new linguana
+  account. If you do not do it in the next 14 days your account will be
+  suspended and your content lost.
+</p>
+
+<a class="action-button" href="{{ activate_url }}"
+  ><span>Verify your account</span></a
+>
+<p class="description">
+  If the button above does not work as expected copy the link below to your
+  browser.
+</p>
+<p class="description">
+  <a href="{{ activate_url }}">{{ activate_url }}</a>
+</p>
+<p class="description">
+  Excited to have you with us! Let us know what you think about Linguana!
+</p>
+
+{% endblock content %}

@@ -1,0 +1,1074 @@
+[
+    {
+        "model": "languages.language",
+        "pk": 1,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "d9a680d4-8f6e-4ada-b66d-04606041ed21",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Pashto",
+            "code": "ps",
+            "emoji": "🇦🇫",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AF.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 2,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "7d627497-7f83-48de-b19b-89fdd84a58f8",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Albanian",
+            "code": "sq",
+            "emoji": "🇦🇱",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AL.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 3,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "29276940-9f7b-4346-b27f-2cf35c815627",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Catalan",
+            "code": "ca",
+            "emoji": "🇦🇩",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AD.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 4,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "a0450026-b3e4-4538-967d-0b57b3b334a4",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Armenian",
+            "code": "hy",
+            "emoji": "🇦🇲",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AM.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 5,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "de71cc1d-3a8a-4833-b45a-692d53368654",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Azerbaijani",
+            "code": "az",
+            "emoji": "🇦🇿",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AZ.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 6,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "88ffdbc2-eb93-4a50-a5ff-9001aec3bf0a",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Bengali",
+            "code": "bn",
+            "emoji": "🇧🇩",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BD.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 7,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "057a62c8-9f9e-447f-ac6b-f542a7f800ed",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Belarusian",
+            "code": "be",
+            "emoji": "🇧🇾",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BY.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 8,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "48ba96f3-f653-48c4-9e87-71b0db22a619",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Bosnian",
+            "code": "bs",
+            "emoji": "🇧🇦",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BA.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 9,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "ba2ba1bd-bf23-4826-b353-08253b343389",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Norwegian",
+            "code": "no",
+            "emoji": "🇧🇻",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BV.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 10,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "76b2559b-d7ad-4513-bdd3-dd0481222bea",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Malay",
+            "code": "ms",
+            "emoji": "🇧🇳",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BN.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 11,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "25372fa8-a768-409a-ad5a-313a59a5b8f3",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Bulgarian",
+            "code": "bg",
+            "emoji": "🇧🇬",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BG.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 12,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "e69050e5-e595-4573-9fd6-00b3bd7b134d",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Khmer",
+            "code": "km",
+            "emoji": "🇰🇭",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KH.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 13,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "82715620-519e-43bd-8fd2-975b2e92da99",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2023-01-23T18:33:24.693Z",
+            "name": "Chinese (Simplified)",
+            "code": "zh",
+            "emoji": "🇨🇳",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CN.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 14,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "61f6ff17-8823-4114-b6c5-d889ac55a209",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Croatian",
+            "code": "hr",
+            "emoji": "🇭🇷",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HR.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 15,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "d22aa25c-1787-4c11-b59c-1dfe5aed4cfd",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Czech",
+            "code": "cs",
+            "emoji": "🇨🇿",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CZ.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 16,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "1c6d2d48-d791-4da9-8f71-bf6e5d6a9f6d",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Danish",
+            "code": "da",
+            "emoji": "🇩🇰",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DK.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 17,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "0784febb-34b8-4928-8723-5a3bf9933f73",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Estonian",
+            "code": "et",
+            "emoji": "🇪🇪",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EE.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 18,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "cab036f5-7654-469a-9cdf-e19048f55bf0",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Amharic",
+            "code": "am",
+            "emoji": "🇪🇹",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ET.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 19,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "328e8038-2c28-4d36-a49a-3e36ab1cc1de",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Finnish",
+            "code": "fi",
+            "emoji": "🇫🇮",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FI.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 20,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "387fcd49-e661-4ffe-8e08-e59e58c63142",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "French",
+            "code": "fr",
+            "emoji": "🇫🇷",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FR.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 21,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "1d3cdfa8-e765-4aeb-9a18-f849539970f3",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Georgian",
+            "code": "ka",
+            "emoji": "🇬🇪",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GE.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 22,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "0702c3be-3f38-41ca-932d-40af94128ce4",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "German",
+            "code": "de",
+            "emoji": "🇩🇪",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DE.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 23,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "549c3ac3-acb5-4edd-b23f-1a17b3ea91df",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Greek (modern)",
+            "code": "el",
+            "emoji": "🇬🇷",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GR.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 24,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "4c27104b-4950-4ef1-b5f9-d0ee18788ae6",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Hungarian",
+            "code": "hu",
+            "emoji": "🇭🇺",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HU.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 25,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "0e4b66c9-fbdb-42b8-9649-7712b301fefd",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Icelandic",
+            "code": "is",
+            "emoji": "🇮🇸",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IS.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 26,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "09f37eec-ba64-452b-a31a-ac630f2f7842",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Hindi",
+            "code": "hi",
+            "emoji": "🇮🇳",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IN.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 27,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "3f4b0172-0bc3-4134-bdee-09abddd91ec4",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Indonesian",
+            "code": "id",
+            "emoji": "🇮🇩",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ID.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 28,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "59bfd1df-5be7-40ea-844e-057d5093411a",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Persian (Farsi)",
+            "code": "fa",
+            "emoji": "🇮🇷",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IR.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 29,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "b5159564-7379-45dd-9908-bdd580fe9b53",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Irish",
+            "code": "ga",
+            "emoji": "🇮🇪",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IE.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 30,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "b266133e-a70c-457f-84a0-29a4a31b05b5",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Hebrew (modern)",
+            "code": "he",
+            "emoji": "🇮🇱",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IL.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 31,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "ed727dbd-55f1-4bdf-b4d7-7ac4f96a920c",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Italian",
+            "code": "it",
+            "emoji": "🇮🇹",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IT.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 32,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "af6512f8-57b2-4791-a543-3af3ab65011c",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Japanese",
+            "code": "ja",
+            "emoji": "🇯🇵",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JP.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 33,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "4cdb77aa-20ab-4311-847a-15f1ab179e62",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Kazakh",
+            "code": "kk",
+            "emoji": "🇰🇿",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KZ.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 34,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "7aa4bb23-1e21-4fc7-a794-9dbcb20d64d9",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Kyrgyz",
+            "code": "ky",
+            "emoji": "🇰🇬",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KG.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 35,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "aba666d8-61ec-4e0b-aff8-e56402010acd",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Lao",
+            "code": "lo",
+            "emoji": "🇱🇦",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LA.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 36,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "de2caf46-af3a-4354-8cb2-e911ca03de18",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Latvian",
+            "code": "lv",
+            "emoji": "🇱🇻",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LV.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 37,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "e49b658b-003f-4d06-b8ff-40967ffbd71b",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Lithuanian",
+            "code": "lt",
+            "emoji": "🇱🇹",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LT.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 38,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "d6a23638-4da5-4304-870f-b0685fa3b1f4",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Macedonian",
+            "code": "mk",
+            "emoji": "🇲🇰",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MK.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 39,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "f84a661d-0616-4882-a49d-2f51c4f394d0",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Dhivehi",
+            "code": "dv",
+            "emoji": "🇲🇻",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MV.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 40,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "070a9b26-e5b8-4cab-9477-f05382fea1a0",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Maltese",
+            "code": "mt",
+            "emoji": "🇲🇹",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MT.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 41,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "41a346b4-8160-497b-9edc-2b599c2ab3bb",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Mongolian",
+            "code": "mn",
+            "emoji": "🇲🇳",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MN.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 42,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "0d599b82-352b-497f-bb66-720e5703603d",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Burmese",
+            "code": "my",
+            "emoji": "🇲🇲",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MM.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 43,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "f672577b-ee5b-424c-81cb-f8f9d798b745",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Nepali",
+            "code": "ne",
+            "emoji": "🇳🇵",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NP.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 44,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "106a63e4-5774-4376-ae86-7042f859cfc6",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Dutch",
+            "code": "nl",
+            "emoji": "🇳🇱",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NL.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 45,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "e76af211-5954-4b82-9d62-499baa13f57b",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Polish",
+            "code": "pl",
+            "emoji": "🇵🇱",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PL.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 46,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "fe84c440-3e3b-4eea-bf21-505c30d7f47c",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Portuguese",
+            "code": "pt",
+            "emoji": "🇵🇹",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PT.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 47,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "29c35ca9-9ce6-482a-87e8-8a4590341d2f",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Romanian",
+            "code": "ro",
+            "emoji": "🇷🇴",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RO.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 48,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "e36b0f6f-b35e-442d-9898-6598861292a6",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Russian",
+            "code": "ru",
+            "emoji": "🇷🇺",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RU.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 49,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "9eded44d-8894-4f57-9959-5bad56a51663",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Kinyarwanda",
+            "code": "rw",
+            "emoji": "🇷🇼",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RW.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 50,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "d8520b27-f0e0-4d3a-8a48-adaa828a0333",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Samoan",
+            "code": "sm",
+            "emoji": "🇼🇸",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WS.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 51,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "1fe574b8-5ef6-4891-a796-a35d8dfd9c91",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Serbian",
+            "code": "sr",
+            "emoji": "🇷🇸",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RS.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 52,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "151dc443-b491-4a02-870a-f6dec91a555b",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Slovak",
+            "code": "sk",
+            "emoji": "🇸🇰",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SK.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 53,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "70607d27-bd3f-41c0-92a1-6639516a34eb",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Slovene",
+            "code": "sl",
+            "emoji": "🇸🇮",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SI.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 54,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "e3ce87b4-f485-432b-b351-402701aeb036",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Korean",
+            "code": "ko",
+            "emoji": "🇰🇷",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KR.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 55,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "2c2d44fc-0b0b-4c57-95d7-220c394c0c32",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Spanish",
+            "code": "es",
+            "emoji": "🇪🇸",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ES.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 56,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "1a574e5d-545c-4323-a6fd-4cd9badec030",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Sinhalese",
+            "code": "si",
+            "emoji": "🇱🇰",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LK.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 57,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "b9244ce8-cc60-410f-a010-328629727c57",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Swedish",
+            "code": "sv",
+            "emoji": "🇸🇪",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SE.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 58,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "d22eb4dd-412c-499d-af2e-845de8f470a4",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Tajik",
+            "code": "tg",
+            "emoji": "🇹🇯",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TJ.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 59,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "47f1c7fe-bd06-4482-b0b5-c563d12f2613",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Thai",
+            "code": "th",
+            "emoji": "🇹🇭",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TH.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 60,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "c2f2eda9-c4a6-4544-be4d-1b88b928dd0c",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Turkish",
+            "code": "tr",
+            "emoji": "🇹🇷",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TR.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 61,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "37262b55-5716-46da-997b-b85e20a4908b",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Turkmen",
+            "code": "tk",
+            "emoji": "🇹🇲",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TM.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 62,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "7c2d35f6-a3e7-46b3-8bd4-757532ad75a9",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Ukrainian",
+            "code": "uk",
+            "emoji": "🇺🇦",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UA.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 63,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "f23d7aa9-827d-48e6-86f4-316a47fd36fe",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Arabic",
+            "code": "ar",
+            "emoji": "🇦🇪",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AE.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 64,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "6b9b673e-c936-4c1a-baed-fdc9bc7359c6",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "English",
+            "code": "en",
+            "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ENGLAND.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 65,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "06c59156-823f-4aaa-8a0e-91237293bbb0",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Uzbek",
+            "code": "uz",
+            "emoji": "🇺🇿",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UZ.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 66,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "f1a96005-f7c0-4705-8475-44e093f4689d",
+            "date_created": "2022-08-23T06:55:30.011Z",
+            "date_updated": "2022-08-23T06:55:30.011Z",
+            "name": "Vietnamese",
+            "code": "vi",
+            "emoji": "🇻🇳",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VN.svg",
+            "available": true
+        }
+    },
+    {
+        "model": "languages.language",
+        "pk": 67,
+        "fields": {
+            "is_deleted": false,
+            "deleted_at": null,
+            "guid": "092c8cfd-4e74-4ceb-8843-3eb5061bb249",
+            "date_created": "2023-01-23T18:34:26.156Z",
+            "date_updated": "2023-01-23T18:34:26.156Z",
+            "name": "Chinese (Traditional)",
+            "code": "zh-TW",
+            "emoji": "🇨🇳",
+            "image": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CN.svg",
+            "available": true
+        }
+    }
+]

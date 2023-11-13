@@ -1,0 +1,29 @@
+import enum
+
+
+class UserAction(enum.Enum):
+    PARSE = 'PARSE'
+    PUBLISH = 'PUBLISH'
+    UNPUBLISH = 'UNPUBLISH'
+    TRANSLATE = 'TRANSLATE'
+    SYNC_LINKS_AND_CONTENT = 'SYNC_LINKS_AND_CONTENT'
+
+
+class EntityType(enum.Enum):
+    PAGE = 'PAGE'
+    PAGE_VERSION = 'PAGE_VERSION'
+    WEBSITE_VERSION = 'WEBSITE_VERSION'
+    PROJECT = 'PROJECT'
+
+
+class ActionType(enum.Enum):
+    PROCESS = 'PROCESS'
+    NOTIFICATIONS = 'NOTIFICATIONS'
+
+
+class ActionStatus(enum.Enum):
+    STARTED = 'STARTED'
+    PROCESSING = 'PROCESSING'
+    COMPLETED = 'COMPLETED'
+    FAILED = 'FAILED'
+    PARTIALLY_COMPLETED = 'PARTIALLY_COMPLETED'

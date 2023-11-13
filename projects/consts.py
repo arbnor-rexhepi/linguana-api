@@ -1,0 +1,3 @@
+PROJECT_IMAGE_UPLOADS_FOLDER_NAME = 'media_files'
+PROJECT_META_VERIFICATION_TAG_NAME = 'linguana-site-verification'
+PROJECT_SCREENSHOTS_FOLDER_NAME = 'project_screenshots'
